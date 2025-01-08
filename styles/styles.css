@@ -1,9 +1,6 @@
 body {
     background: black;
     image-rendering: pixelated;
-}
-
-p {
     color: white;
     text-align: center;
 }
@@ -18,11 +15,6 @@ a:visited {
 
 a:active {
     color: rgb(0, 174, 255);
-}
-
-h1 {
-    color: white;
-    text-align: center;
 }
 
 .midiinfo {
