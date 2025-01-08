@@ -25,6 +25,12 @@ h1 {
     text-align: center;
 }
 
+.midiinfo {
+    margin: auto;
+    background-color: rgb(28, 24, 61);
+    width: 384px;
+}
+
 .banner {
     display: block;
     margin-left: auto;
