@@ -6,11 +6,11 @@ body {
 }
 
 a:link {
-    color: rgb(0, 68, 255);
+    color: rgb(119, 0, 255);
 }
 
 a:visited {
-    color: rgb(196, 1, 196);
+    color: rgb(255, 0, 149);
 }
 
 a:active {
